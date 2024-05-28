@@ -1,3 +1,6 @@
+download:
+https://github.com/yzslab/gaussian-splatting-lightning
+
 # Gaussian Splatting PyTorch Lightning Implementation
 ## Known issues
 * Multi-GPU training can only be enabled after densification

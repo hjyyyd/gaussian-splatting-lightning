@@ -1,0 +1,17 @@
+
+conda create -yn gspl python=3.9 pip
+conda activate gspl
+
+
+
+
+recommend:
+python==3.9
+pytorch==2.0.1
+CUDA==11.8
+
+
+gs env:
+python==3.10
+torch==2.0.1+cu117
+tinycudann==1.7
